@@ -2,6 +2,7 @@
 
 🔹 Level 1
 🥁 Exercici 1
+
 En un grup de música hi ha diferents tipus d’instruments musicals: instruments de vent, de corda i de percussió.
 Tots els instruments tenen com a atributs el nom i el preu.
 També tenen un mètode anomenat tocar(), que és abstracte a la classe Instrument i, per tant, s’ha d’implementar a les classes filles.
@@ -15,6 +16,7 @@ Aquesta càrrega pot ser provocada per la creació de la primera instància d’
 (Cerca informació sobre blocs d’inicialització i blocs estàtics en Java.)
 
 🚗 Exercici 2
+
 Crea una classe Cotxe amb els atributs: marca, model i potència.
 marca ha de ser static final
 model ha de ser static
