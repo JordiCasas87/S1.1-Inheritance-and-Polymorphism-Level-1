@@ -29,12 +29,14 @@ Un mètode no estàtic accelerar() → mostrarà “El vehicle està accelerant�
 Finalment, demostra com invocar el mètode estàtic i el no estàtic des del main() de la classe principal.
 
 💻 Technologies used
+
 Eclipse IDE for Java Developers (original exercises)
 IntelliJ IDEA (imported and modified projects)
 Java 21
 Git & GitHub
 
 📚 Repository description
+
 This repository contains structured Object-Oriented Programming exercises in Java, focused on:
 Inheritance
 Polymorphism
@@ -45,9 +47,11 @@ Method overriding
 Object interaction
 
 🛠️ Installation
+
 Clone the repository
 
 ▶️ Execution
+
 Open the project in IntelliJ IDEA or Eclipse, compile, and run the main() of each exercise.
 
 🌐 Deployment
